@@ -1,1 +1,1 @@
-# React-test-1
+Dummy template
